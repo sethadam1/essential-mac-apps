@@ -18,6 +18,8 @@ This list is organized by categories to help you quickly find the types of appli
 - [Cloud & Sync](#cloud--sync)
 - [Clipboard & Text](#clipboard--text)
 
+---
+
 ## Productivity & Organization
 
 Essential tools for managing your tasks, notes, passwords, and daily workflow.
@@ -29,8 +31,11 @@ A powerful knowledge management and note-taking app that uses linked markdown fi
 An award-winning calendar app that combines beautiful design with powerful features like natural language event creation, multiple calendar support, and seamless integration with your existing calendar services.
 
 ### [1Password](https://1password.com/)
-The world's most-loved password manager that securely stores your passwords, credit cards, and sensitive information while making it easy to log into websites and apps with just one click.##
- Development & Code
+The world's most-loved password manager that securely stores your passwords, credit cards, and sensitive information while making it easy to log into websites and apps with just one click.
+
+---
+
+## Development & Code
 
 Professional tools for developers, programmers, and anyone working with code or files.
 
@@ -38,8 +43,11 @@ Professional tools for developers, programmers, and anyone working with code or 
 A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
 
 ### [Forklift](https://binarynights.com/)
-A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.## 
-System Utilities
+A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
+
+---
+
+## System Utilities
 
 Essential system tools for maintenance, file management, and keeping your Mac running smoothly.
 
@@ -56,14 +64,20 @@ Professional-grade backup software that creates bootable backups of your Mac, en
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
 
 ### [Android File Transfer](https://www.android.com/filetransfer/)
-Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents.## L
-auncher & Automation
+Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents.
+
+---
+
+## Launcher & Automation
 
 Supercharge your productivity with powerful launchers and automation tools.
 
 ### [Raycast](https://www.raycast.com/)
-A blazingly fast, totally extendable launcher that replaces Spotlight with powerful features like clipboard history, window management, system controls, and a rich ecosystem of extensions.## Commu
-nication & AI
+A blazingly fast, totally extendable launcher that replaces Spotlight with powerful features like clipboard history, window management, system controls, and a rich ecosystem of extensions.
+
+---
+
+## Communication & AI
 
 Stay connected and leverage AI assistance for your daily tasks.
 
@@ -71,8 +85,11 @@ Stay connected and leverage AI assistance for your daily tasks.
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
 
 ### [Fmail3](https://fmail3.com/)
-A modern, privacy-focused email client designed for Mac that offers a clean interface, powerful search capabilities, and advanced email management features.## W
-eb & Browsing
+A modern, privacy-focused email client designed for Mac that offers a clean interface, powerful search capabilities, and advanced email management features.
+
+---
+
+## Web & Browsing
 
 Enhanced web browsing experience with privacy and productivity features.
 
@@ -80,14 +97,20 @@ Enhanced web browsing experience with privacy and productivity features.
 Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance.
 
 ### [Wipr](https://giorgiocalderolla.com/wipr.html)
-A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.##
- Media & Entertainment
+A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.
+
+---
+
+## Media & Entertainment
 
 Enjoy your favorite content with these excellent media applications.
 
 ### [Overcast](https://overcast.fm/)
-A feature-rich podcast player with intelligent speed adjustment, voice boost technology, and smart playlists that make listening to podcasts more enjoyable and efficient.## Clou
-d & Sync
+A feature-rich podcast player with intelligent speed adjustment, voice boost technology, and smart playlists that make listening to podcasts more enjoyable and efficient.
+
+---
+
+## Cloud & Sync
 
 Keep your files synchronized and securely accessible across all your devices.
 
@@ -95,8 +118,11 @@ Keep your files synchronized and securely accessible across all your devices.
 The world's leading cloud storage service that seamlessly syncs your files across devices, enables easy sharing and collaboration, and provides reliable backup for your important documents.
 
 ### [Tailscale](https://tailscale.com/)
-A modern VPN service that creates secure networks between your devices using WireGuard technology, making it easy to access your files and services from anywhere securely.##
- Clipboard & Text
+A modern VPN service that creates secure networks between your devices using WireGuard technology, making it easy to access your files and services from anywhere securely.
+
+---
+
+## Clipboard & Text
 
 Enhance your text workflow with powerful clipboard management tools.
 
