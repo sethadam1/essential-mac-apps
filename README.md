@@ -44,7 +44,7 @@ Professional tools for developers, programmers, and anyone working with code or 
 ### [Amazon Kiro](https://kiro.amazon.dev/)
 A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
 
-If Kiro isn't for you, consider Windsurf, Zed, Cursor, or anther VSCode offshoot. They're all excellent. 
+If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), [Cursor](https://cursor.sh/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent. 
 
 ### [Forklift](https://binarynights.com/)
 A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
@@ -70,7 +70,13 @@ Professional-grade backup software that creates bootable backups of your Mac, en
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
 
 ### [Android File Transfer](https://www.android.com/filetransfer/)
-Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device. 
+Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device.
+
+### [Setapp](https://setapp.com/)
+A subscription service that gives you access to over 240 premium Mac apps for one monthly fee, eliminating the need to purchase individual licenses and keeping all your apps updated automatically.
+
+### [Clop](https://lowtechguys.com/clop/)
+An automatic clipboard optimizer that compresses and optimizes images, videos, and PDFs when you copy them, saving storage space and improving sharing performance without manual intervention. 
 
 ---
 
@@ -94,7 +100,10 @@ OpenAI's revolutionary AI assistant that can help with writing, coding, analysis
 A modern, privacy-focused email client designed for Mac that offers a clean interface, powerful search capabilities, and advanced email management features.
 
 ### [WhatsApp](https://www.whatsapp.com/download)
-The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous. 
+The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous.
+
+### [Slack](https://slack.com/)
+A powerful team collaboration platform that brings all your communication together in organized channels, direct messages, and integrated workflows for seamless teamwork. 
 
 ---
 
@@ -107,6 +116,9 @@ Mozilla's privacy-focused web browser that offers excellent customization option
 
 ### [Wipr](https://giorgiocalderolla.com/wipr.html)
 A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.
+
+### [Feedly](https://feedly.com/)
+A modern RSS reader and news aggregator that helps you stay informed by organizing content from your favorite websites, blogs, and publications in a clean, customizable interface.
 
 ---
 
@@ -122,6 +134,15 @@ A premium audio player designed for audiophiles that supports high-resolution au
 
 ### [Overcast](https://overcast.fm/)
 A feature-rich podcast player with intelligent speed adjustment, voice boost technology, and smart playlists that make listening to podcasts more enjoyable and efficient.
+
+### [Pixelmator Pro](https://www.pixelmator.com/pro/)
+A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design.
+
+### [Permute 3](https://software.charliemonroe.net/permute/)
+A versatile media converter that handles video, audio, and image files with support for hundreds of formats, batch processing, and seamless integration with macOS. Perfect for converting FLAC to mp3 or other audio or video conversions. 
+
+### [Downie](https://software.charliemonroe.net/downie/)
+A simple yet powerful video downloader that supports over 1,200 sites including YouTube, Vimeo, and social media platforms, with automatic quality detection and batch downloads.
 
 ---
 
