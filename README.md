@@ -38,6 +38,9 @@ The world's most-loved password manager that securely stores your passwords, cre
 ### [FantastiCAL](https://flexibits.com/fantastical)💰
 An award-winning calendar app that combines beautiful design with powerful features like natural language event creation, multiple calendar support, and seamless integration with your existing calendar services.
 
+### [ItsyCal](https://www.mowglii.com/itsycal/)🔓
+A tiny menu bar calendar that replaces the system date display with a customizable calendar dropdown, showing your events at a glance without taking up dock space.
+
 ### ⭐️ [Obsidian](https://obsidian.md/)
 A powerful knowledge management and note-taking app that uses linked markdown files to create a personal knowledge graph. Perfect for researchers, writers, and anyone who wants to build connections between their ideas. 
 
