@@ -128,7 +128,7 @@ Stay connected and leverage AI assistance for your daily tasks.
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
 
 ### [Fmail3](https://fmail3.com/)💰
-A modern, privacy-focused email client designed for Mac that offers a clean interface, powerful search capabilities, and advanced email management features.
+If you're a user of Fastmail - which I think you should be, even if you use a Gmail address - this is a modern, privacy-focused email client designed for Mac that offers a clean interface to the Fastmail website, which preserves all of the Fmail features, utilizies JMAP for secure email exchange, and looks beautiful. 
 
 ### [Slack](https://slack.com/)
 A powerful team collaboration platform that brings all your communication together in organized channels, direct messages, and integrated workflows for seamless teamwork.
@@ -140,7 +140,7 @@ A beautifully designed Mastodon client from the makers of Tweetbot, offering an 
 The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous.
 
 ### [Zoom](https://zoom.us/)
-Video conferencing platform that enables high-quality video meetings, webinars, and screen sharing with reliable performance and cross-platform compatibility. 
+Video conferencing platform with reliable performance and cross-platform compatibility. 
 
 ---
 
@@ -152,7 +152,7 @@ Enhanced web browsing experience with privacy and productivity features.
 A modern RSS reader and news aggregator that helps you stay informed by organizing content from your favorite websites, blogs, and publications in a clean, customizable interface.
 
 ### [Firefox](https://www.mozilla.org/firefox/)🔓
-Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance. Should be everyone's backup browser if it's not your primary.
+Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance. Should be everyone's backup browser, if it's not your primary.
 
 ### [Wipr](https://giorgiocalderolla.com/wipr.html)💰
 A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.
@@ -169,7 +169,7 @@ A free, open-source audio editor and recorder that provides professional-grade t
 ### [Deluge](https://deluge-torrent.org/)🔓
 A lightweight, cross-platform BitTorrent client that offers a clean interface and powerful features including plugin support, web interface, and daemon mode for remote management. 
 
-Deluge is not the most modern looking, or even attractive, but unlike other popular apps, it has some great features, such as multiple watch folders with multiple target destinations. Plus it's rock solid. 
+Deluge is not the most modern-looking app, nor is it even very attractive, but unlike other popular apps, it has some great features, such as multiple watch folders with multiple target destinations. Plus it's rock solid. 
 
 ### [Downie](https://software.charliemonroe.net/downie/)💰
 A simple yet powerful video downloader that supports over 1,200 sites including YouTube, Vimeo, and social media platforms, with automatic quality detection and batch downloads.
@@ -187,7 +187,7 @@ A feature-rich podcast player with intelligent speed adjustment, voice boost tec
 A versatile media converter that handles video, audio, and image files with support for hundreds of formats, batch processing, and seamless integration with macOS. Perfect for converting FLAC to mp3 or other audio or video conversions.
 
 ### ⭐️ [Pixelmator Pro](https://www.pixelmator.com/pro/)💰
-A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design.
+A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design. Instead of Photoshop, try this at a fraction of the price. 
 
 ### [VOX](https://vox.rocks/)💰
 A premium audio player designed for audiophiles that supports high-resolution audio formats including FLAC, DSD, and more. Features a beautiful interface, advanced audio engine, and cloud music streaming capabilities.
