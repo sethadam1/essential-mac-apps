@@ -66,7 +66,7 @@ The missing package manager for macOS that installs the stuff you need that Appl
 A powerful terminal emulator for macOS that replaces Terminal with advanced features like split panes, search, autocomplete, and extensive customization options for developers and power users.
 
 ### [SQLPro Studio](https://www.sqlprostudio.com)💰
-A fast, easy-to-use Mac database management application for working with MySQL databases. Features an intuitive interface for browsing, querying, and managing your database structures and data.  
+A fast, easy-to-use Mac database management application for working with  databases (MySQL, MariaDB, MSSQL, PostgreSQL). Features an intuitive interface for browsing, querying, and managing your database structures and data.  
 
 ---
 
@@ -157,6 +157,11 @@ Enjoy your favorite content with these excellent media applications.
 
 ### [Audacity](https://www.audacityteam.org/)🔓
 A free, open-source audio editor and recorder that provides professional-grade tools for recording, editing, and mixing audio with support for multiple tracks and effects.
+
+### [Deluge](https://deluge-torrent.org/)🔓
+A lightweight, cross-platform BitTorrent client that offers a clean interface and powerful features including plugin support, web interface, and daemon mode for remote management. 
+
+Deluge is not the most modern looking, or even attractive, but unlike other popular apps, it has some great features, such as multiple watch folders with multiple target destinations. Plus it's rock solid. 
 
 ### [Downie](https://software.charliemonroe.net/downie/)💰
 A simple yet powerful video downloader that supports over 1,200 sites including YouTube, Vimeo, and social media platforms, with automatic quality detection and batch downloads.
