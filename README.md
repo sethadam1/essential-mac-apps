@@ -46,6 +46,9 @@ A powerful knowledge management and note-taking app that uses linked markdown fi
 
 Files are stored *locally* as Markdown, which are standard text files, so they can theoretically last forever.
 
+### ⭐️ [Pixelmator Pro](https://www.pixelmator.com/pro/)💰
+A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design. Instead of Photoshop, try this at a fraction of the price.
+
 ---
 
 ## Development & Code
@@ -91,6 +94,9 @@ A beautiful disk space analyzer that helps you visualize what's taking up space 
 
 ### [Hazel](https://www.noodlesoft.com/)💰
 An automated organization tool that watches your folders and automatically organizes your files based on rules you create, keeping your Mac clean and organized without manual effort.
+
+### [PearCleaner](https://github.com/alienator88/Pearcleaner)🔓
+A free, open-source app uninstaller that thoroughly removes applications and their associated files, helping you keep your Mac clean by finding and deleting leftover files that standard uninstalling leaves behind.
 
 ### [Jiggler](https://www.sticksoftware.com/software/Jiggler.html)
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
@@ -186,8 +192,8 @@ A feature-rich podcast player with intelligent speed adjustment, voice boost tec
 ### [Permute 3](https://software.charliemonroe.net/permute/)💰
 A versatile media converter that handles video, audio, and image files with support for hundreds of formats, batch processing, and seamless integration with macOS. Perfect for converting FLAC to mp3 or other audio or video conversions.
 
-### ⭐️ [Pixelmator Pro](https://www.pixelmator.com/pro/)💰
-A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design. Instead of Photoshop, try this at a fraction of the price. 
+### [Plexamp](https://plexamp.com/)💰
+A beautiful, feature-rich music player from Plex that provides an exceptional listening experience with advanced features like gapless playback, crossfading, and intelligent playlists, designed specifically for music lovers. 
 
 ### [VOX](https://vox.rocks/)💰
 A premium audio player designed for audiophiles that supports high-resolution audio formats including FLAC, DSD, and more. Features a beautiful interface, advanced audio engine, and cloud music streaming capabilities.
