@@ -25,7 +25,9 @@ This list is organized by categories to help you quickly find the types of appli
 Essential tools for managing your tasks, notes, passwords, and daily workflow.
 
 ### [Obsidian](https://obsidian.md/)
-A powerful knowledge management and note-taking app that uses linked markdown files to create a personal knowledge graph. Perfect for researchers, writers, and anyone who wants to build connections between their ideas.
+A powerful knowledge management and note-taking app that uses linked markdown files to create a personal knowledge graph. Perfect for researchers, writers, and anyone who wants to build connections between their ideas. 
+
+Files are stored *locally* as Markdown, which are standard text files, so they can theoretically last forever.  
 
 ### [FantastiCAL](https://flexibits.com/fantastical)
 An award-winning calendar app that combines beautiful design with powerful features like natural language event creation, multiple calendar support, and seamless integration with your existing calendar services.
@@ -42,8 +44,12 @@ Professional tools for developers, programmers, and anyone working with code or 
 ### [Amazon Kiro](https://kiro.amazon.dev/)
 A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
 
+If Kiro isn't for you, consider Windsurf, Zed, Cursor, or anther VSCode offshoot. They're all excellent. 
+
 ### [Forklift](https://binarynights.com/)
 A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
+
+Another great option is [Transmit](https://panic.com/transmit) by Panic, which is an excellent app, but is not nearly as actively developed.  
 
 ---
 
@@ -64,7 +70,7 @@ Professional-grade backup software that creates bootable backups of your Mac, en
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
 
 ### [Android File Transfer](https://www.android.com/filetransfer/)
-Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents.
+Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device. 
 
 ---
 
@@ -87,6 +93,9 @@ OpenAI's revolutionary AI assistant that can help with writing, coding, analysis
 ### [Fmail3](https://fmail3.com/)
 A modern, privacy-focused email client designed for Mac that offers a clean interface, powerful search capabilities, and advanced email management features.
 
+### [WhatsApp](https://www.whatsapp.com/download)
+The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous. 
+
 ---
 
 ## Web & Browsing
@@ -94,7 +103,7 @@ A modern, privacy-focused email client designed for Mac that offers a clean inte
 Enhanced web browsing experience with privacy and productivity features.
 
 ### [Firefox](https://www.mozilla.org/firefox/)
-Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance.
+Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance. Should be everyone's backup browser if it's not your primary. 
 
 ### [Wipr](https://giorgiocalderolla.com/wipr.html)
 A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.
@@ -104,6 +113,12 @@ A fast and efficient ad blocker for Safari that blocks ads, trackers, and other 
 ## Media & Entertainment
 
 Enjoy your favorite content with these excellent media applications.
+
+### [IINA](https://iina.io/)
+A modern video player for macOS that supports virtually all media formats with a clean, native interface. Built specifically for Mac users, it offers advanced features like online subtitle search, playlist management, and seamless integration with macOS.
+
+### [VOX](https://vox.rocks/)
+A premium audio player designed for audiophiles that supports high-resolution audio formats including FLAC, DSD, and more. Features a beautiful interface, advanced audio engine, and cloud music streaming capabilities.
 
 ### [Overcast](https://overcast.fm/)
 A feature-rich podcast player with intelligent speed adjustment, voice boost technology, and smart playlists that make listening to podcasts more enjoyable and efficient.
