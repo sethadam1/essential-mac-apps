@@ -11,7 +11,7 @@ This list is organized by categories to help you quickly find the types of appli
 | Icon | Description |
 |------|-------------|
 | ⭐️ | Indicates a *must have* app |
-| � | IIndicates a paid app | 
+| 💰 | IIndicates a paid app | 
 | 🔓 | Indicates an open source app |
 
 ## Table of Contents
