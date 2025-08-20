@@ -128,6 +128,9 @@ A modern, privacy-focused email client designed for Mac that offers a clean inte
 ### [Slack](https://slack.com/)
 A powerful team collaboration platform that brings all your communication together in organized channels, direct messages, and integrated workflows for seamless teamwork.
 
+### [Ivory](https://tapbots.com/ivory/)💰
+A beautifully designed Mastodon client from the makers of Tweetbot, offering an elegant interface, powerful timeline management, and seamless integration with the decentralized social network.
+
 ### ⭐️ [WhatsApp](https://www.whatsapp.com/download)
 The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous.
 
