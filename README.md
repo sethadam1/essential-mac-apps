@@ -111,7 +111,9 @@ A subscription service that gives you access to over 240 premium Mac apps for on
 Supercharge your productivity with powerful launchers and automation tools.
 
 ### [JoinTogether](https://www.underpassapp.com/JoinTogether/)💰
-A simple utility that merges multiple files into one, supporting various file types including text, images, and PDFs with an intuitive drag-and-drop interface.
+A simple utility that merges multiple files into one, supporting various file types including text, images, and PDFs with an intuitive drag-and-drop interface. 
+
+This app is great for things like joining mp3s to make an audiobook whole, or a multi-part podcast into a single episode. 
 
 ### ⭐️ [Raycast](https://www.raycast.com/)🔓
 A blazingly fast, totally extendable launcher that replaces Spotlight with powerful features like clipboard history, window management, system controls, and a rich ecosystem of extensions.
