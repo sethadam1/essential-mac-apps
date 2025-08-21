@@ -6,7 +6,8 @@ Welcome to this carefully curated list of essential Mac applications that can en
 
 This list is organized by categories to help you quickly find the types of applications you need. Each app includes a brief description and a direct link to help you learn more or download the application.
 
-**Looking for free apps only?** Check out our [Essential Free Mac Apps](free-apps.md) list featuring only the best free applications.
+> **Looking for free apps only?** Check out our [Essential Free Mac Apps](free-apps.md) list featuring only the best free applications.
+
 
 ### Legend 
 
