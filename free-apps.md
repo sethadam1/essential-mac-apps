@@ -31,7 +31,7 @@ This list is organized by categories to help you quickly find the types of appli
 
 Essential free tools for managing your tasks, notes, and daily workflow.
 
-### [ItsyCal](https://www.mowglii.com/itsycal/)🌐
+### [ItsyCal](https://www.mowglii.com/itsycal/) 🌐
 A tiny menu bar calendar that replaces the system date display with a customizable calendar dropdown, showing your events at a glance without taking up dock space.
 
 ### ⭐️ [Obsidian](https://obsidian.md/)
@@ -50,10 +50,10 @@ A modern, AI-powered code editor and IDE that enhances your development workflow
 
 If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), [Cursor](https://cursor.sh/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
 
-### [Homebrew](https://brew.sh/)🌐
+### [Homebrew](https://brew.sh/) 🌐
 The missing package manager for macOS that installs the stuff you need that Apple didn't include. Essential for developers to easily install and manage command-line tools and applications.
 
-### ⭐️ [iTerm2](https://iterm2.com/)🌐
+### ⭐️ [iTerm2](https://iterm2.com/) 🌐
 A powerful terminal emulator for macOS that replaces Terminal with advanced features like split panes, search, autocomplete, and extensive customization options for developers and power users.
 
 ---
@@ -65,13 +65,13 @@ Essential free system tools for maintenance, file management, and keeping your M
 ### [Android File Transfer](https://www.android.com/filetransfer/)
 Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device.
 
-### [PearCleaner](https://github.com/alienator88/Pearcleaner)🌐
+### [PearCleaner](https://github.com/alienator88/Pearcleaner) 🌐
 A free, open-source app uninstaller that thoroughly removes applications and their associated files, helping you keep your Mac clean by finding and deleting leftover files that standard uninstalling leaves behind.
 
 ### [Jiggler](https://www.sticksoftware.com/software/Jiggler.html)
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
 
-### ⭐️ [Keka](https://www.keka.io/)🌐
+### ⭐️ [Keka](https://www.keka.io/) 🌐
 A comprehensive file archiver for macOS that supports dozens of file formats including ZIP, 7Z, TAR, and RAR, with a clean interface and powerful compression options.
 
 ### [Quitter](https://marco.org/apps#quitter)
@@ -83,7 +83,7 @@ A simple menu bar app that automatically hides or quits applications after perio
 
 Supercharge your productivity with powerful free launchers and automation tools.
 
-### ⭐️ [Raycast](https://www.raycast.com/)🌐
+### ⭐️ [Raycast](https://www.raycast.com/) 🌐
 A blazingly fast, totally extendable launcher that replaces Spotlight with powerful features like clipboard history, window management, system controls, and a rich ecosystem of extensions.
 
 ---
@@ -113,7 +113,7 @@ Enhanced web browsing experience with privacy and productivity features.
 ### [Feedly](https://feedly.com/)
 A modern RSS reader and news aggregator that helps you stay informed by organizing content from your favorite websites, blogs, and publications in a clean, customizable interface.
 
-### [Firefox](https://www.mozilla.org/firefox/)🌐
+### [Firefox](https://www.mozilla.org/firefox/) 🌐
 Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance. Should be everyone's backup browser, if it's not your primary.
 
 ---
@@ -122,18 +122,18 @@ Mozilla's privacy-focused web browser that offers excellent customization option
 
 Enjoy your favorite content with these excellent free media applications.
 
-### [Audacity](https://www.audacityteam.org/)🌐
+### [Audacity](https://www.audacityteam.org/) 🌐
 A free, open-source audio editor and recorder that provides professional-grade tools for recording, editing, and mixing audio with support for multiple tracks and effects.
 
-### [Deluge](https://deluge-torrent.org/)🌐
+### [Deluge](https://deluge-torrent.org/) 🌐
 A lightweight, cross-platform BitTorrent client that offers a clean interface and powerful features including plugin support, web interface, and daemon mode for remote management. 
 
 Deluge is not the most modern-looking app, nor is it even very attractive, but unlike other popular apps, it has some great features, such as multiple watch folders with multiple target destinations. Plus it's rock solid. 
 
-### ⭐️ [IINA](https://iina.io/)🌐
+### ⭐️ [IINA](https://iina.io/) 🌐
 A modern video player for macOS that supports virtually all media formats with a clean, native interface. Built specifically for Mac users, it offers advanced features like online subtitle search, playlist management, and seamless integration with macOS.
 
-### [Kid3](https://kid3.kde.org/)🌐
+### [Kid3](https://kid3.kde.org/) 🌐
 A powerful audio tag editor that supports multiple formats including MP3, FLAC, and AAC, allowing you to edit metadata, rename files, and organize your music collection efficiently.
 
 ---
@@ -151,7 +151,7 @@ A modern VPN service that creates secure networks between your devices using Wir
 
 Enhance your text workflow with powerful free clipboard management tools.
 
-### [Maccy](https://maccy.app/)🌐
+### [Maccy](https://maccy.app/) 🌐
 A lightweight, open-source clipboard manager that keeps your copy history organized and easily accessible through a simple menu bar interface, perfect for users who prefer minimalist tools. This is a free app and it's open source. 
 
 ---
