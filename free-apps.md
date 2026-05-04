@@ -48,7 +48,7 @@ Professional free tools for developers, programmers, and anyone working with cod
 ### [Amazon Kiro](https://kiro.amazon.dev/)
 A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
 
-If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), [Cursor](https://cursor.sh/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
+If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
 
 ### [Homebrew](https://brew.sh/) 🌐
 The missing package manager for macOS that installs the stuff you need that Apple didn't include. Essential for developers to easily install and manage command-line tools and applications.
@@ -94,6 +94,12 @@ Stay connected and leverage AI assistance for your daily tasks.
 
 ### ⭐️ [ChatGPT](https://openai.com/chatgpt/)
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
+
+### [Fastmail](https://www.fastmail.com/download/)
+If you're a user of Fastmail - which I think you should be, even if you use a Gmail address - this is a modern, privacy-focused email client designed for Mac that offers a clean interface to the Fastmail website, which preserves all of the Fmail features, utilizies JMAP for secure email exchange, and looks beautiful. 
+
+### [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) 🌐
+A fast, reliable, and beautiful Mastodon client built with SwiftUI. Supports multiple accounts, live timelines via the streaming API, push notifications, lists, and a wealth of customization options. A great free and open-source alternative to paid Mastodon clients.
 
 ### [Slack](https://slack.com/)
 A powerful team collaboration platform that brings all your communication together in organized channels, direct messages, and integrated workflows for seamless teamwork.

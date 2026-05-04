@@ -6,7 +6,7 @@ Welcome to this carefully curated list of essential Mac applications that can en
 
 This list is organized by categories to help you quickly find the types of applications you need. Each app includes a brief description and a direct link to help you learn more or download the application.
 
-> **Looking for free apps only?** Check out our [Essential Free Mac Apps](free-apps.md) list featuring only the best free applications.
+> **Looking for free apps only?** Check out the [Essential Free Mac Apps](free-apps.md) list featuring only the best free applications.
 
 
 ### Legend 
@@ -61,7 +61,7 @@ Professional tools for developers, programmers, and anyone working with code or 
 ### [Amazon Kiro](https://kiro.amazon.dev/)
 A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
 
-If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), [Cursor](https://cursor.sh/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
+If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
 
 ### [Forklift](https://binarynights.com/)💰
 A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
@@ -91,6 +91,9 @@ Professional-grade backup software that creates bootable backups of your Mac, en
 
 ### [Clop](https://lowtechguys.com/clop/)💰
 An automatic clipboard optimizer that compresses and optimizes images, videos, and PDFs when you copy them, saving storage space and improving sharing performance without manual intervention.
+
+### [Dropover](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12)💰
+A drag-and-drop utility that lets you shake your cursor to create a floating shelf where you can collect, organize, and move files between apps and folders. Makes multi-step drag-and-drop workflows effortless.
 
 ### ⭐️ [DaisyDisk](https://daisydiskapp.com/)💰
 A beautiful disk space analyzer that helps you visualize what's taking up space on your Mac with an intuitive sunburst chart, making it easy to find and remove large files and folders.
@@ -136,14 +139,17 @@ Stay connected and leverage AI assistance for your daily tasks.
 ### ⭐️ [ChatGPT](https://openai.com/chatgpt/)
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
 
-### [Fmail3](https://fmail3.com/)💰
+### [Fastmail](https://www.fastmail.com/download/)
 If you're a user of Fastmail - which I think you should be, even if you use a Gmail address - this is a modern, privacy-focused email client designed for Mac that offers a clean interface to the Fastmail website, which preserves all of the Fmail features, utilizies JMAP for secure email exchange, and looks beautiful. 
 
 ### [Slack](https://slack.com/)
 A powerful team collaboration platform that brings all your communication together in organized channels, direct messages, and integrated workflows for seamless teamwork.
 
+### [Ice Cubes](https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884) 🌐
+A fast, reliable, and beautiful Mastodon client built with SwiftUI. Supports multiple accounts, live timelines via the streaming API, push notifications, lists, and a wealth of customization options. A great free and open-source alternative to paid Mastodon clients.
+
 ### [Ivory](https://tapbots.com/ivory/)💰
-A beautifully designed Mastodon client from the makers of Tweetbot, offering an elegant interface, powerful timeline management, and seamless integration with the decentralized social network.
+If you prefer an extremely well design totally Mac-native app experience, consider Ivory, a beautifully designed Mastodon client from the makers of Tweetbot, offering an elegant interface, powerful timeline management, and seamless integration with the decentralized social network.
 
 ### ⭐️ [WhatsApp](https://www.whatsapp.com/download)
 The world's most popular messaging app. Yes, it's made by Meta. But it's solid and ubiquitous.
