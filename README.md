@@ -1,6 +1,7 @@
 # Essential Mac Apps
 
 *A curated collection of must-have applications for Mac users*
+*Last updated: May 2026*
 
 Welcome to this carefully curated list of essential Mac applications that can enhance your productivity, creativity, and overall computing experience. Whether you're a developer, creative professional, or everyday user, these apps represent some of the best software available for macOS.
 
@@ -112,9 +113,6 @@ A comprehensive file archiver for macOS that supports dozens of file formats inc
 
 ### [Quitter](https://marco.org/apps#quitter)
 A simple menu bar app that automatically hides or quits applications after periods of inactivity, helping you maintain focus and reduce clutter in your dock and menu bar.
-
-### [Setapp](https://setapp.com/)💰
-A subscription service that gives you access to over 240 premium Mac apps for one monthly fee, eliminating the need to purchase individual licenses and keeping all your apps updated automatically. 
 
 ---
 
@@ -250,4 +248,3 @@ This list is curated based on personal experience and community recommendations.
 
 ---
 
-*Last updated: August 2025*

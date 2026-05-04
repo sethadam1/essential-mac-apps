@@ -1,6 +1,7 @@
 # Essential Free Mac Apps
 
 *A curated collection of must-have free applications for Mac users*
+*Last updated: May 2026*
 
 Welcome to this carefully curated list of essential **free** Mac applications that can enhance your productivity, creativity, and overall computing experience. Whether you're a developer, creative professional, or everyday user, these apps represent some of the best free software available for macOS.
 
@@ -179,4 +180,3 @@ This list is curated based on personal experience and community recommendations.
 
 ---
 
-*Last updated: August 2025*
