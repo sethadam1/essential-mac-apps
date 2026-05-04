@@ -74,6 +74,9 @@ The missing package manager for macOS that installs the stuff you need that Appl
 ### ⭐️ [iTerm2](https://iterm2.com/) 🌐  
 A powerful terminal emulator for macOS that replaces Terminal with advanced features like split panes, search, autocomplete, and extensive customization options for developers and power users.
 
+### [Prompt 3](https://panic.com/prompt/)💰
+A beautiful SSH client from Panic that supports local, SSH, Mosh, and Eternal Terminal connections. Syncs across iPhone, iPad, and Mac via Panic Sync, and stays connected even on unstable networks. 
+
 ### [SQLPro Studio](https://www.sqlprostudio.com)💰
 A fast, easy-to-use Mac database management application for working with  databases (MySQL, MariaDB, MSSQL, PostgreSQL). Features an intuitive interface for browsing, querying, and managing your database structures and data.  
 
@@ -85,6 +88,9 @@ Essential system tools for maintenance, file management, and keeping your Mac ru
 
 ### [Android File Transfer](https://www.android.com/filetransfer/)
 Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device.
+
+### [balenaEtcher](https://etcher.balena.io/) 🌐
+A free, open-source utility for flashing OS images to SD cards and USB drives safely and easily. Features a simple three-step interface, validated flashing to confirm writes completed correctly, and built-in protection against accidentally wiping your system drive.
 
 ### [Carbon Copy Cloner](https://bombich.com/)💰
 Professional-grade backup software that creates bootable backups of your Mac, ensuring your data is safe and your system can be quickly restored in case of hardware failure.
@@ -100,6 +106,9 @@ A beautiful disk space analyzer that helps you visualize what's taking up space 
 
 ### [Hazel](https://www.noodlesoft.com/)💰
 An automated organization tool that watches your folders and automatically organizes your files based on rules you create, keeping your Mac clean and organized without manual effort.
+
+### [HazeOver](https://hazeover.com/)💰
+A distraction dimmer that automatically highlights the active window by fading background windows into the background. Helps you stay focused on the task at hand, especially useful on large or multi-monitor setups.
 
 ### [PearCleaner](https://github.com/alienator88/Pearcleaner) 🌐  
 A free, open-source app uninstaller that thoroughly removes applications and their associated files, helping you keep your Mac clean by finding and deleting leftover files that standard uninstalling leaves behind.

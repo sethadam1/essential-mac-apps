@@ -65,6 +65,9 @@ Essential free system tools for maintenance, file management, and keeping your M
 ### [Android File Transfer](https://www.android.com/filetransfer/)
 Google's official tool for transferring files between your Mac and Android devices, providing a simple drag-and-drop interface for managing photos, music, and documents. You never know when you'll need to exchange files with an Android device.
 
+### [balenaEtcher](https://etcher.balena.io/) 🌐
+A free, open-source utility for flashing OS images to SD cards and USB drives safely and easily. Features a simple three-step interface, validated flashing to confirm writes completed correctly, and built-in protection against accidentally wiping your system drive.
+
 ### [PearCleaner](https://github.com/alienator88/Pearcleaner) 🌐
 A free, open-source app uninstaller that thoroughly removes applications and their associated files, helping you keep your Mac clean by finding and deleting leftover files that standard uninstalling leaves behind.
 
