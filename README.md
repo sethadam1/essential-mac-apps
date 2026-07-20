@@ -28,6 +28,7 @@ This list is organized by categories to help you quickly find the types of appli
 - [Media & Entertainment](#media--entertainment)
 - [Cloud & Sync](#cloud--sync)
 - [Clipboard & Text](#clipboard--text)
+- [Homebrew](#homebrew)
 
 ---
 
@@ -58,10 +59,13 @@ A powerful, full-featured image editor designed exclusively for Mac that combine
 
 Professional tools for developers, programmers, and anyone working with code or files.
 
-### [Amazon Kiro](https://kiro.amazon.dev/)
-A modern, AI-powered code editor and IDE that enhances your development workflow with intelligent code completion, built-in AI assistance, and seamless integration with development tools.
+### [Microsoft VSCode](https://code.visualstudio.com/) 🌐
+A free, extensible code editor from Microsoft with a massive ecosystem of extensions, built-in Git support, and integrated debugging, making it one of the most popular development tools available.
 
-If Kiro isn't for you, consider [Windsurf](https://codeium.com/windsurf), [Zed](https://zed.dev/), or another [VSCode](https://code.visualstudio.com) offshoot. They're all excellent.
+If VSCode isn't for you, consider [Windsurf](https://codeium.com/windsurf) or [Zed](https://zed.dev/). They're both excellent.
+
+### [Bruno](https://www.usebruno.com/) 🌐
+A fast, open-source API client for testing and inspecting REST, GraphQL, and gRPC requests, storing collections as plain text files so they work naturally with Git instead of a proprietary cloud format.
 
 ### [Forklift](https://binarynights.com/)💰
 A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
@@ -236,6 +240,26 @@ A lightweight, open-source clipboard manager that keeps your copy history organi
 
 ### ⭐️ [Pastebot](https://tapbots.com/pastebot/)💰
 An elegant clipboard manager that automatically saves everything you copy, organizes it intelligently, and makes it easy to access your clipboard history with powerful search and filtering options. If you don't want to pay for it, consider Maccy. 
+
+---
+
+## Homebrew
+
+Command-line tools and utilities available via [Homebrew](https://brew.sh/) for specialized development and media tasks.
+
+### [php-cs-fixer](https://cs.symfony.com/) 🌐
+A tool that automatically fixes PHP coding standards issues, ensuring your codebase follows PSR standards and other configurable style rules.
+
+### [Sequel Ace](https://sequel-ace.com/) 🌐
+A fast, easy-to-use Mac database management application for working with MySQL and MariaDB databases, and a free, open-source successor to Sequel Pro.
+
+### [webp](https://developers.google.com/speed/webp) 🌐
+Google's WebP image format command-line tools (cwebp/dwebp) for converting images to and from the efficient WebP format, offering smaller file sizes than JPEG and PNG.
+
+### [ffmpeg](https://ffmpeg.org/) 🌐
+The essential command-line tool for recording, converting, and streaming audio and video, supporting virtually every media format in existence.
+
+Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`).
 
 ---
 
