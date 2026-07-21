@@ -49,7 +49,7 @@ Professional free tools for developers, programmers, and anyone working with cod
 ### [Microsoft VSCode](https://code.visualstudio.com/) 🌐
 A free, extensible code editor from Microsoft with a massive ecosystem of extensions, built-in Git support, and integrated debugging, making it one of the most popular development tools available.
 
-If VSCode isn't for you, consider [Windsurf](https://codeium.com/windsurf) or [Zed](https://zed.dev/). They're both excellent.
+If VSCode isn't for you, consider [Amazon Kiro](https://kiro.dev/), [Cursor](https://cursor.com/), or [Zed](https://zed.dev/). They're all excellent.
 
 ### [Bruno](https://www.usebruno.com/) 🌐
 A fast, open-source API client for testing and inspecting REST, GraphQL, and gRPC requests, storing collections as plain text files so they work naturally with Git instead of a proprietary cloud format.
@@ -101,6 +101,12 @@ Stay connected and leverage AI assistance for your daily tasks.
 
 ### ⭐️ [ChatGPT](https://openai.com/chatgpt/)
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
+
+### [Claude](https://claude.ai/)
+A powerful AI assistant for writing, coding, and analysis, known for strong long-context reasoning and a polished experience across devices.
+
+### [Gemini](https://gemini.google.com/)
+Google's AI assistant that combines web knowledge, coding help, and productivity features in a streamlined experience.
 
 ### [Fastmail](https://www.fastmail.com/download/)
 If you're a user of Fastmail - which I think you should be, even if you use a Gmail address - this is a modern, privacy-focused email client designed for Mac that offers a clean interface to the Fastmail website, which preserves all of the Fmail features, utilizies JMAP for secure email exchange, and looks beautiful. 
@@ -178,6 +184,9 @@ A tool that automatically fixes PHP coding standards issues, ensuring your codeb
 
 ### [Sequel Ace](https://sequel-ace.com/) 🌐
 A fast, easy-to-use Mac database management application for working with MySQL and MariaDB databases, and a free, open-source successor to Sequel Pro.
+
+### [Tabularis](https://tabularis.app/)
+A polished database client for Postgres, MySQL, SQLite, and more, focused on a modern experience with strong SQL editing and visualization features. It’s also available via Homebrew.
 
 ### [webp](https://developers.google.com/speed/webp) 🌐
 Google's WebP image format command-line tools (cwebp/dwebp) for converting images to and from the efficient WebP format, offering smaller file sizes than JPEG and PNG.

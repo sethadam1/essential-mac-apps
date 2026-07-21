@@ -59,12 +59,12 @@ A powerful, full-featured image editor designed exclusively for Mac that combine
 
 Professional tools for developers, programmers, and anyone working with code or files.
 
-### [Microsoft VSCode](https://code.visualstudio.com/) 🌐
+### ⭐️ [Microsoft VSCode](https://code.visualstudio.com/) 🌐
 A free, extensible code editor from Microsoft with a massive ecosystem of extensions, built-in Git support, and integrated debugging, making it one of the most popular development tools available.
 
-If VSCode isn't for you, consider [Windsurf](https://codeium.com/windsurf) or [Zed](https://zed.dev/). They're both excellent.
+If VSCode isn't for you, consider [Amazon Kiro](https://kiro.dev/), [Cursor](https://cursor.com/), or [Zed](https://zed.dev/). They're all excellent.
 
-### [Bruno](https://www.usebruno.com/) 🌐
+### ⭐️ [Bruno](https://www.usebruno.com/) 🌐
 A fast, open-source API client for testing and inspecting REST, GraphQL, and gRPC requests, storing collections as plain text files so they work naturally with Git instead of a proprietary cloud format.
 
 ### [Forklift](https://binarynights.com/)💰
@@ -72,7 +72,7 @@ A powerful dual-pane file manager and FTP/SFTP client that makes file operations
 
 Another great option is [Transmit](https://panic.com/transmit) by Panic, which is an excellent app, but is not nearly as actively developed.
 
-### [Homebrew](https://brew.sh/) 🌐  
+### ⭐️ [Homebrew](https://brew.sh/) 🌐  
 The missing package manager for macOS that installs the stuff you need that Apple didn't include. Essential for developers to easily install and manage command-line tools and applications.
 
 ### ⭐️ [iTerm2](https://iterm2.com/) 🌐  
@@ -80,9 +80,6 @@ A powerful terminal emulator for macOS that replaces Terminal with advanced feat
 
 ### [Prompt 3](https://panic.com/prompt/)💰
 A beautiful SSH client from Panic that supports local, SSH, Mosh, and Eternal Terminal connections. Syncs across iPhone, iPad, and Mac via Panic Sync, and stays connected even on unstable networks. 
-
-### [SQLPro Studio](https://www.sqlprostudio.com)💰
-A fast, easy-to-use Mac database management application for working with  databases (MySQL, MariaDB, MSSQL, PostgreSQL). Features an intuitive interface for browsing, querying, and managing your database structures and data.  
 
 ---
 
@@ -99,16 +96,10 @@ A free, open-source utility for flashing OS images to SD cards and USB drives sa
 ### [Carbon Copy Cloner](https://bombich.com/)💰
 Professional-grade backup software that creates bootable backups of your Mac, ensuring your data is safe and your system can be quickly restored in case of hardware failure.
 
-### [Clop](https://lowtechguys.com/clop/)💰
-An automatic clipboard optimizer that compresses and optimizes images, videos, and PDFs when you copy them, saving storage space and improving sharing performance without manual intervention.
-
-### [Dropover](https://apps.apple.com/us/app/dropover-easier-drag-drop/id1355679052?mt=12)💰
-A drag-and-drop utility that lets you shake your cursor to create a floating shelf where you can collect, organize, and move files between apps and folders. Makes multi-step drag-and-drop workflows effortless.
-
 ### ⭐️ [DaisyDisk](https://daisydiskapp.com/)💰
 A beautiful disk space analyzer that helps you visualize what's taking up space on your Mac with an intuitive sunburst chart, making it easy to find and remove large files and folders.
 
-### [Hazel](https://www.noodlesoft.com/)💰
+### ⭐️ [Hazel](https://www.noodlesoft.com/)💰
 An automated organization tool that watches your folders and automatically organizes your files based on rules you create, keeping your Mac clean and organized without manual effort.
 
 ### [HazeOver](https://hazeover.com/)💰
@@ -146,8 +137,14 @@ A blazingly fast, totally extendable launcher that replaces Spotlight with power
 
 Stay connected and leverage AI assistance for your daily tasks.
 
-### ⭐️ [ChatGPT](https://openai.com/chatgpt/)
+### [ChatGPT](https://openai.com/chatgpt/)
 OpenAI's revolutionary AI assistant that can help with writing, coding, analysis, and creative tasks through natural conversation, now available as a native Mac app.
+
+### ⭐️ [Claude](https://claude.ai/)
+A powerful AI assistant for writing, coding, and analysis, known for strong long-context reasoning and a polished experience across devices.
+
+### [Gemini](https://gemini.google.com/)
+Google's AI assistant that combines web knowledge, coding help, and productivity features in a streamlined experience.
 
 ### [Fastmail](https://www.fastmail.com/download/)
 If you're a user of Fastmail - which I think you should be, even if you use a Gmail address - this is a modern, privacy-focused email client designed for Mac that offers a clean interface to the Fastmail website, which preserves all of the Fmail features, utilizies JMAP for secure email exchange, and looks beautiful. 
@@ -252,6 +249,9 @@ A tool that automatically fixes PHP coding standards issues, ensuring your codeb
 
 ### [Sequel Ace](https://sequel-ace.com/) 🌐
 A fast, easy-to-use Mac database management application for working with MySQL and MariaDB databases, and a free, open-source successor to Sequel Pro.
+
+### [Tabularis](https://tabularis.app/)
+A polished database client for Postgres, MySQL, SQLite, and more, focused on a modern experience with strong SQL editing and visualization features. It’s also available via Homebrew.
 
 ### [webp](https://developers.google.com/speed/webp) 🌐
 Google's WebP image format command-line tools (cwebp/dwebp) for converting images to and from the efficient WebP format, offering smaller file sizes than JPEG and PNG.
