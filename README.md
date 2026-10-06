@@ -68,7 +68,7 @@ Professional tools for developers, programmers, and anyone working with code or 
 ### ⭐️ [Microsoft VSCode](https://code.visualstudio.com/) 🌐
 A free, extensible code editor from Microsoft with a massive ecosystem of extensions, built-in Git support, and integrated debugging, making it one of the most popular development tools available.
 
-If VSCode isn't for you, consider [Amazon Kiro](https://kiro.dev/), [Cursor](https://cursor.com/), or [Zed](https://zed.dev/). They're all excellent.
+If VSCode isn't for you, consider [Amazon Kiro](https://kiro.dev/), [Windsurf](https://windsurf.com/), or [Zed](https://zed.dev/). They're all excellent.
 
 ### ⭐️ [Bruno](https://www.usebruno.com/) 🌐
 A fast, open-source API client for testing and inspecting REST, GraphQL, and gRPC requests, storing collections as plain text files so they work naturally with Git instead of a proprietary cloud format.
