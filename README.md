@@ -274,6 +274,9 @@ Google's WebP image format command-line tools (cwebp/dwebp) for converting image
 ### [ffmpeg](https://ffmpeg.org/) 🌐
 The essential command-line tool for recording, converting, and streaming audio and video, supporting virtually every media format in existence.
 
+### [Colima](https://colima.run) 🌐
+Container runtimes on macOS with minimal setup: a lightweight, free, open-source alternative to Docker Desktop. Run `colima start` and use the regular `docker` CLI (`brew install docker`) with no heavy GUI app or licensing worries.
+
 Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`). Also see the `Brewfile` file included in this repo. 
 
 ---

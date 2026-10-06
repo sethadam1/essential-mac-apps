@@ -80,6 +80,8 @@ cask "pastebot"
 brew "php-cs-fixer"
 brew "webp"
 brew "ffmpeg"
+brew "colima"
+brew "docker"   # CLI that Colima runs containers for
 cask "tabularis", trusted: true
 
 # --- Mac App Store apps (requires being signed into the App Store; installs fail otherwise) ---
