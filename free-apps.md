@@ -93,6 +93,9 @@ Supercharge your productivity with powerful free launchers and automation tools.
 ### ⭐️ [Raycast](https://www.raycast.com/) 🌐
 A blazingly fast, totally extendable launcher that replaces Spotlight with powerful features like clipboard history, window management, system controls, and a rich ecosystem of extensions.
 
+### [Forel](https://github.com/lab421/forel) 🌐
+A free, open-source file automation app that lives in your menu bar, watching folders and applying rules (by name, extension, size, date, or even OCR'd contents) to move, copy, rename, tag, or run scripts on files. A solid Hazel alternative that runs entirely on-device with no network calls or analytics.
+
 ---
 
 ## Communication & AI

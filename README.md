@@ -50,6 +50,9 @@ A powerful knowledge management and note-taking app that uses linked markdown fi
 
 Files are stored *locally* as Markdown, which are standard text files, so they can theoretically last forever.
 
+### [Unforgetful](https://apps.apple.com/us/app/unforgetful-never-lose-a-task/id6785630295)💰
+A persistent-reminder layer for Apple Reminders from Marco Arment, the creator of Overcast. It keeps nagging with persistent notifications and flexible snoozing until a task is actually done, while syncing with the same Reminders data so Siri and other apps keep working. Mac App Store; subscription after a one-month free trial.
+
 ### ⭐️ [Pixelmator Pro](https://www.pixelmator.com/pro/)💰
 A powerful, full-featured image editor designed exclusively for Mac that combines professional-grade tools with an intuitive interface, perfect for photo editing, digital art, and graphic design. Instead of Photoshop, try this at a fraction of the price.
 
@@ -67,10 +70,8 @@ If VSCode isn't for you, consider [Amazon Kiro](https://kiro.dev/), [Cursor](htt
 ### ⭐️ [Bruno](https://www.usebruno.com/) 🌐
 A fast, open-source API client for testing and inspecting REST, GraphQL, and gRPC requests, storing collections as plain text files so they work naturally with Git instead of a proprietary cloud format.
 
-### [Forklift](https://binarynights.com/)💰
-A powerful dual-pane file manager and FTP/SFTP client that makes file operations, remote server management, and bulk file transfers effortless with its intuitive interface and advanced features.
-
-Another great option is [Transmit](https://panic.com/transmit) by Panic, which is an excellent app, but is not nearly as actively developed.
+### [Transmit](https://panic.com/transmit)💰
+An excellent file transfer client from Panic that makes FTP/SFTP, S3, and remote server management effortless, with a polished, native interface and fast, reliable bulk transfers.
 
 ### ⭐️ [Homebrew](https://brew.sh/) 🌐  
 The missing package manager for macOS that installs the stuff you need that Apple didn't include. Essential for developers to easily install and manage command-line tools and applications.
@@ -99,8 +100,10 @@ Professional-grade backup software that creates bootable backups of your Mac, en
 ### ⭐️ [DaisyDisk](https://daisydiskapp.com/)💰
 A beautiful disk space analyzer that helps you visualize what's taking up space on your Mac with an intuitive sunburst chart, making it easy to find and remove large files and folders.
 
-### ⭐️ [Hazel](https://www.noodlesoft.com/)💰
-An automated organization tool that watches your folders and automatically organizes your files based on rules you create, keeping your Mac clean and organized without manual effort.
+### [Forel](https://forel-app.github.io) 🌐
+A free, open-source, privacy-focused app that automatically organizes your files based on customizable rules, keeping folders like Downloads tidy without any manual sorting. Also installable via Homebrew: `brew install --cask lab421/tap/forel`.
+
+Forel is the newcomer in this space. The long-standing paid option is [Hazel](https://www.noodlesoft.com/)💰, which has been doing this for years and is also excellent, but Forel is where I'd start.
 
 ### [HazeOver](https://hazeover.com/)💰
 A distraction dimmer that automatically highlights the active window by fading background windows into the background. Helps you stay focused on the task at hand, especially useful on large or multi-monitor setups.

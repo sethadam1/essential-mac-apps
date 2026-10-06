@@ -15,11 +15,11 @@ cask "fantastical"
 cask "itsycal"
 cask "obsidian"
 # Pixelmator Pro is Mac App Store only (no Homebrew cask). See MAS section below.
+# Unforgetful — Mac App Store only. See MAS section below.
 
 # --- Development & Code ---
 cask "visual-studio-code"
 cask "bruno"
-cask "forklift"
 cask "iterm2"
 # Prompt 3 (Panic) — no Homebrew cask found; install from panic.com/prompt or MAS.
 
@@ -28,7 +28,6 @@ cask "android-file-transfer"
 cask "balenaetcher"
 cask "carbon-copy-cloner"
 cask "daisydisk"
-cask "hazel"
 cask "hazeover"
 cask "pearcleaner"
 cask "keka"
@@ -37,6 +36,7 @@ cask "keka"
 
 # --- Launcher & Automation ---
 cask "raycast"
+# Forel — no Homebrew cask found; download from github.com/lab421/forel/releases.
 # JoinTogether — no Homebred cask found; download from underpassapp.com/JoinTogether.
 
 # --- Communication & AI ---
@@ -83,3 +83,4 @@ cask "tabularis", trusted: true
 # mas "Pixelmator Pro", id: 1289583905
 # mas "Ice Cubes",       id: 6444915884
 # mas "Wipr 2",          id: 1662217862
+# mas "Unforgetful",     id: 6785630295
