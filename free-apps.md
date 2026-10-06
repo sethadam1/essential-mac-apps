@@ -75,6 +75,9 @@ A free, open-source utility for flashing OS images to SD cards and USB drives sa
 ### [PearCleaner](https://github.com/alienator88/Pearcleaner) 🌐
 A free, open-source app uninstaller that thoroughly removes applications and their associated files, helping you keep your Mac clean by finding and deleting leftover files that standard uninstalling leaves behind.
 
+### [Clop](https://lowtechguys.com/clop) 🌐
+Automatically optimizes images, videos, and PDFs as you copy, screenshot, or save them, shrinking file sizes with no manual steps. Great for keeping screenshots and clipboard images lightweight before sharing.
+
 ### [Jiggler](https://www.sticksoftware.com/software/Jiggler.html)
 A simple utility that prevents your Mac from going to sleep by simulating tiny mouse movements, perfect for presentations or when you need to keep your system active.
 

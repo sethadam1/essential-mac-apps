@@ -26,6 +26,7 @@ cask "iterm2"
 # --- System Utilities ---
 cask "android-file-transfer"
 cask "balenaetcher"
+cask "clop"
 cask "carbon-copy-cloner"
 cask "daisydisk"
 cask "hazeover"
