@@ -1,13 +1,9 @@
-# Brewfile — generated from github.com/sethadam1/essential-mac-apps
+# Brewfile — the everyday apps from github.com/sethadam1/essential-mac-apps
+# Developer tools live in Brewfile.dev. install.sh runs both (or just this one).
 # Usage:
-#   brew bundle install --file=Brewfile
+#   brew bundle install --file=install/Brewfile
 # To capture what's actually installed later:
 #   brew bundle dump --force --file=Brewfile.snapshot
-
-# --- Taps ---
-# Homebrew 6.0.0+ requires explicit trust for third-party taps before their
-# Ruby code is evaluated. `brew tap` alone is no longer enough.
-tap "TabularisDB/tabularis", trusted: true
 
 # --- Productivity & Organization ---
 cask "1password"
@@ -17,12 +13,6 @@ cask "robbietilton-compositor"   # Compositor (NOTE: the cask named "compositor"
 cask "obsidian"
 # Pixelmator Pro is Mac App Store only (no Homebrew cask). See MAS section below.
 # Unforgetful — Mac App Store only. See MAS section below.
-
-# --- Development & Code ---
-cask "visual-studio-code"
-cask "bruno"
-cask "iterm2"
-# Prompt 3 (Panic) — no Homebrew cask found; install from panic.com/prompt or MAS.
 
 # --- System Utilities ---
 cask "android-file-transfer"
@@ -75,14 +65,6 @@ cask "tailscale"
 
 # --- Clipboard & Text ---
 cask "pastebot"
-
-# --- CLI tools ---
-brew "php-cs-fixer"
-brew "webp"
-brew "ffmpeg"
-brew "colima"
-brew "docker"   # CLI that Colima runs containers for
-cask "tabularis", trusted: true
 
 # --- Mac App Store apps (requires being signed into the App Store; installs fail otherwise) ---
 brew "mas"

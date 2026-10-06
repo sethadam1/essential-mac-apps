@@ -1,0 +1,23 @@
+# Brewfile.dev — developer tools from github.com/sethadam1/essential-mac-apps
+# Install on top of the main Brewfile (install.sh --dev does both).
+# Usage:
+#   brew bundle install --file=install/Brewfile.dev
+
+# --- Taps ---
+# Homebrew 6.0.0+ requires explicit trust for third-party taps before their
+# Ruby code is evaluated. `brew tap` alone is no longer enough.
+tap "TabularisDB/tabularis", trusted: true
+
+# --- Development & Code ---
+cask "visual-studio-code"
+cask "bruno"
+cask "iterm2"
+cask "tabularis", trusted: true
+# Prompt 3 (Panic) — no Homebrew cask found; install from panic.com/prompt or MAS.
+
+# --- CLI tools ---
+brew "php-cs-fixer"
+brew "webp"
+brew "ffmpeg"
+brew "colima"
+brew "docker"   # CLI that Colima runs containers for

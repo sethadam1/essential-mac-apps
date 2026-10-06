@@ -214,15 +214,27 @@ Container runtimes on macOS with minimal setup: a lightweight, free, open-source
 
 Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`).
 
-### Install everything with the Brewfile
+### Install everything at once
 
-Rather than installing apps one at a time, this repo includes a [Brewfile](Brewfile) covering the apps and command-line tools on this list that are available through Homebrew. Apps with no cask are noted in comments, along with Mac App Store apps (installable via [`mas`](https://github.com/mas-cli/mas)). To install everything at once:
+The [install/](install/) folder has a script that installs Homebrew (if you don't have it) and then the apps on this list that are available through Homebrew. It asks whether you also want the developer tools (editors, database clients, `ffmpeg`, Colima and friends); pass `--dev` or `--no-dev` to skip the question. Apps with no cask are noted in comments in the [Brewfile](install/Brewfile), and Mac App Store apps are installed with [`mas`](https://github.com/mas-cli/mas), so sign in to the App Store first.
+
+**Recommended:** clone the repo, read the script, then run it.
 
 ```sh
-brew bundle install --file=Brewfile
+git clone https://github.com/sethadam1/essential-mac-apps.git
+cd essential-mac-apps/install
+./install.sh
 ```
 
-Open the Brewfile first and delete any lines you don't want, since it includes paid apps and a few third-party taps. To capture what's already installed on your own Mac, run `brew bundle dump --force --file=Brewfile.snapshot`.
+**Faster:** run it straight from GitHub. Only do this if you trust the repo; it executes whatever is at that URL.
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/sethadam1/essential-mac-apps/main/install/install.sh | bash
+# or, with no questions asked:
+curl -fsSL https://raw.githubusercontent.com/sethadam1/essential-mac-apps/main/install/install.sh | bash -s -- --dev
+```
+
+Already have Homebrew? You can skip the script: `brew bundle install --file=install/Brewfile` (everyday apps) and `--file=install/Brewfile.dev` (developer tools). The Brewfiles include paid apps, so delete any lines you don't want first. To capture what's already on your own Mac, run `brew bundle dump --force --file=Brewfile.snapshot`.
 
 ---
 

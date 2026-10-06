@@ -277,7 +277,29 @@ The essential command-line tool for recording, converting, and streaming audio a
 ### [Colima](https://colima.run) 🌐
 Container runtimes on macOS with minimal setup: a lightweight, free, open-source alternative to Docker Desktop. Run `colima start` and use the regular `docker` CLI (`brew install docker`) with no heavy GUI app or licensing worries.
 
-Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`). Also see the `Brewfile` file included in this repo. 
+Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`).
+
+### Install everything at once
+
+The [install/](install/) folder has a script that installs Homebrew (if you don't have it) and then the apps on this list that are available through Homebrew. It asks whether you also want the developer tools (editors, database clients, `ffmpeg`, Colima and friends); pass `--dev` or `--no-dev` to skip the question. Apps with no cask are noted in comments in the [Brewfile](install/Brewfile), and Mac App Store apps are installed with [`mas`](https://github.com/mas-cli/mas), so sign in to the App Store first.
+
+**Recommended:** clone the repo, read the script, then run it.
+
+```sh
+git clone https://github.com/sethadam1/essential-mac-apps.git
+cd essential-mac-apps/install
+./install.sh
+```
+
+**Faster:** run it straight from GitHub. Only do this if you trust the repo; it executes whatever is at that URL.
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/sethadam1/essential-mac-apps/main/install/install.sh | bash
+# or, with no questions asked:
+curl -fsSL https://raw.githubusercontent.com/sethadam1/essential-mac-apps/main/install/install.sh | bash -s -- --dev
+```
+
+Already have Homebrew? You can skip the script: `brew bundle install --file=install/Brewfile` (everyday apps) and `--file=install/Brewfile.dev` (developer tools). The Brewfiles include paid apps, so delete any lines you don't want first. To capture what's already on your own Mac, run `brew bundle dump --force --file=Brewfile.snapshot`.
 
 ---
 
