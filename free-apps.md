@@ -158,6 +158,9 @@ A lightweight, cross-platform BitTorrent client that offers a clean interface an
 
 Deluge is not the most modern-looking app, nor is it even very attractive, but unlike other popular apps, it has some great features, such as multiple watch folders with multiple target destinations. Plus it's rock solid. 
 
+### [Ensemble](https://apps.apple.com/us/app/ensemble-music-player/id6759577769)
+A native Plex music player for Mac, iPhone, iPad, and more. Connect your Plex account, sync the libraries you want, and browse albums, artists, songs, and playlists with offline downloads, AirPlay, and a dense interface built for large music libraries. Free on the Mac App Store.
+
 ### ⭐️ [IINA](https://iina.io/) 🌐
 A modern video player for macOS that supports virtually all media formats with a clean, native interface. Built specifically for Mac users, it offers advanced features like online subtitle search, playlist management, and seamless integration with macOS.
 
@@ -204,6 +207,16 @@ Google's WebP image format command-line tools (cwebp/dwebp) for converting image
 The essential command-line tool for recording, converting, and streaming audio and video, supporting virtually every media format in existence.
 
 Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`).
+
+### Install everything with the Brewfile
+
+Rather than installing apps one at a time, this repo includes a [Brewfile](Brewfile) covering the apps and command-line tools on this list that are available through Homebrew. Apps with no cask are noted in comments, along with Mac App Store apps (installable via [`mas`](https://github.com/mas-cli/mas)). To install everything at once:
+
+```sh
+brew bundle install --file=Brewfile
+```
+
+Open the Brewfile first and delete any lines you don't want, since it includes paid apps and a few third-party taps. To capture what's already installed on your own Mac, run `brew bundle dump --force --file=Brewfile.snapshot`.
 
 ---
 

@@ -60,6 +60,7 @@ cask "firefox"
 cask "audacity"
 cask "deluge"
 cask "downie"
+# Ensemble — Mac App Store only. See MAS section below.
 cask "iina"
 cask "kid3"
 cask "permute"
@@ -80,9 +81,10 @@ brew "webp"
 brew "ffmpeg"
 cask "tabularis", trusted: true
 
-# --- Mac App Store apps (requires `brew install mas` and being signed into the App Store) ---
-# brew "mas"
-# mas "Pixelmator Pro", id: 1289583905
-# mas "Ice Cubes",       id: 6444915884
-# mas "Wipr 2",          id: 1662217862
-# mas "Unforgetful",     id: 6785630295
+# --- Mac App Store apps (requires being signed into the App Store; installs fail otherwise) ---
+brew "mas"
+mas "Pixelmator Pro", id: 1289583905
+mas "Ice Cubes",       id: 6444915884
+mas "Wipr 2",          id: 1662217862
+mas "Unforgetful",     id: 6785630295
+mas "Ensemble",        id: 6759577769

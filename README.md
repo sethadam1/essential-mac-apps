@@ -1,10 +1,10 @@
 # Essential Mac Apps
 
-*A curated collection of must-have applications for Mac users (last updated: May 2026)*
+*A curated collection of must-have applications for Mac users (last updated: October 2026)*
 
 Welcome to this carefully curated list of essential Mac applications that can enhance your productivity, creativity, and overall computing experience. Whether you're a developer, creative professional, or everyday user, these apps represent some of the best software available for macOS.
 
-This list is organized by categories to help you quickly find the types of applications you need. Each app includes a brief description and a direct link to help you learn more or download the application.
+This list is organized by category to help you quickly find the types of applications you need. Each app includes a brief description and a direct link to help you learn more or download the application.
 
 > **Looking for free apps only?** Check out the [Essential Free Mac Apps](free-apps.md) list featuring only the best free applications.
 
@@ -152,7 +152,7 @@ OpenAI's revolutionary AI assistant that can help with writing, coding, analysis
 ### ⭐️ [Claude](https://claude.ai/)
 A powerful AI assistant for writing, coding, and analysis, known for strong long-context reasoning and a polished experience across devices.
 
-### [Gemini](https://gemini.google.com/)
+### [Google Gemini](https://gemini.google.com/)
 Google's AI assistant that combines web knowledge, coding help, and productivity features in a streamlined experience.
 
 ### [Fastmail](https://www.fastmail.com/download/)
@@ -204,6 +204,9 @@ Deluge is not the most modern-looking app, nor is it even very attractive, but u
 
 ### [Downie](https://software.charliemonroe.net/downie/)💰
 A simple yet powerful video downloader that supports over 1,200 sites including YouTube, Vimeo, and social media platforms, with automatic quality detection and batch downloads.
+
+### [Ensemble](https://apps.apple.com/us/app/ensemble-music-player/id6759577769)
+A native Plex music player for Mac, iPhone, iPad, and more. Connect your Plex account, sync the libraries you want, and browse albums, artists, songs, and playlists with offline downloads, AirPlay, and a dense interface built for large music libraries. Free on the Mac App Store.
 
 ### ⭐️ [IINA](https://iina.io/) 🌐  
 A modern video player for macOS that supports virtually all media formats with a clean, native interface. Built specifically for Mac users, it offers advanced features like online subtitle search, playlist management, and seamless integration with macOS.
@@ -268,7 +271,7 @@ Google's WebP image format command-line tools (cwebp/dwebp) for converting image
 ### [ffmpeg](https://ffmpeg.org/) 🌐
 The essential command-line tool for recording, converting, and streaming audio and video, supporting virtually every media format in existence.
 
-Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`).
+Install any of these with `brew install <name>` (or `brew install --cask sequel-ace`). Also see the `Brewfile` file included in this repo. 
 
 ---
 
