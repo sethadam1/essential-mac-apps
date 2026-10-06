@@ -55,6 +55,7 @@ cask "zoom"
 cask "firefox"
 # Feedly — web app, no native Mac client to install.
 # Wipr — Mac App Store only (Safari extension). See MAS section below.
+# xcancel Redirect — iPhone app that runs on Apple Silicon Macs; install from the App Store (id 6785266128).
 
 # --- Media & Entertainment ---
 cask "audacity"

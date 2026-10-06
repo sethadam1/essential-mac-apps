@@ -185,6 +185,9 @@ A modern RSS reader and news aggregator that helps you stay informed by organizi
 ### [Firefox](https://www.mozilla.org/firefox/) 🌐  
 Mozilla's privacy-focused web browser that offers excellent customization options, strong security features, and a commitment to user privacy without sacrificing performance. Should be everyone's backup browser, if it's not your primary.
 
+### [xcancel Redirect](https://apps.apple.com/app/id6785266128)
+A free Safari extension that redirects X/Twitter and other social media links to privacy-friendly alternative frontends like xcancel.com or nitter.net, either automatically or with a one-tap button. It's an iPhone app, but runs on Apple Silicon Macs through "iPhone and iPad Apps" in the Mac App Store.
+
 ### [Wipr](https://giorgiocalderolla.com/wipr.html)💰
 A fast and efficient ad blocker for Safari that blocks ads, trackers, and other unwanted content while preserving your privacy and improving page loading speeds.
 
@@ -233,7 +236,7 @@ A premium audio player designed for audiophiles that supports high-resolution au
 Keep your files synchronized and securely accessible across all your devices.
 
 ### ⭐️ [Dropbox](https://www.dropbox.com/)💰
-The world's leading cloud storage service that seamlessly syncs your files across devices, enables easy sharing and collaboration, and provides reliable backup for your important documents.
+There are plenty of people who complain about Dropbox, specifically their over-earger app, but in the end, it's the world's leading cloud storage service for a reason. It's just rock solid, super dependable, and I trust it in a way that I don't even trust iCloud Drive. 
 
 ### ⭐️ [Tailscale](https://tailscale.com/)
 A modern VPN service that creates secure networks between your devices using WireGuard technology, making it easy to access your files and services from anywhere securely.
