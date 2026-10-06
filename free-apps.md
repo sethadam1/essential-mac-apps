@@ -32,6 +32,9 @@ This list is organized by categories to help you quickly find the types of appli
 
 Essential free tools for managing your tasks, notes, and daily workflow.
 
+### [Compositor](https://github.com/robbietilton/Compositor) 🌐
+A free, open-source, Mac-native image editor built around compositing and post-processing, with layers, masks, adjustment layers, blend modes, and background removal. It opens PSD files with layers intact, making it a lightweight Photoshop alternative. Requires macOS 26 or later.
+
 ### [ItsyCal](https://www.mowglii.com/itsycal/) 🌐
 A tiny menu bar calendar that replaces the system date display with a customizable calendar dropdown, showing your events at a glance without taking up dock space.
 

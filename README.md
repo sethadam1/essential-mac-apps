@@ -39,6 +39,9 @@ Essential tools for managing your tasks, notes, passwords, and daily workflow.
 ### ⭐️ [1Password](https://1password.com/)💰
 The world's most-loved password manager that securely stores your passwords, credit cards, and sensitive information while making it easy to log into websites and apps with just one click.
 
+### [Compositor](https://github.com/robbietilton/Compositor) 🌐
+A free, open-source, Mac-native image editor built around compositing and post-processing, with layers, masks, adjustment layers, blend modes, and background removal. It opens PSD files with layers intact, making it a lightweight Photoshop alternative. Requires macOS 26 or later.
+
 ### [FantastiCAL](https://flexibits.com/fantastical)💰
 An award-winning calendar app that combines beautiful design with powerful features like natural language event creation, multiple calendar support, and seamless integration with your existing calendar services.
 

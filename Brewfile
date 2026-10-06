@@ -13,6 +13,7 @@ tap "TabularisDB/tabularis", trusted: true
 cask "1password"
 cask "fantastical"
 cask "itsycal"
+cask "robbietilton-compositor"   # Compositor (NOTE: the cask named "compositor" is a LaTeX editor)
 cask "obsidian"
 # Pixelmator Pro is Mac App Store only (no Homebrew cask). See MAS section below.
 # Unforgetful — Mac App Store only. See MAS section below.
