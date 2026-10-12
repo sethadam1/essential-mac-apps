@@ -19,5 +19,6 @@ cask "tabularis", trusted: true
 brew "php-cs-fixer"
 brew "webp"
 brew "ffmpeg"
+brew "lame"
 brew "colima"
 brew "docker"   # CLI that Colima runs containers for

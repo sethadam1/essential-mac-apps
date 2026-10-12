@@ -274,6 +274,9 @@ Google's WebP image format command-line tools (cwebp/dwebp) for converting image
 ### [ffmpeg](https://ffmpeg.org/) 🌐
 The essential command-line tool for recording, converting, and streaming audio and video, supporting virtually every media format in existence.
 
+### [LAME](https://lame.sourceforge.io/) 🌐
+A high-quality MP3 encoder for the command line. Handy for converting audio to MP3 with precise control over bitrate and quality, and it's what ffmpeg and many audio tools use under the hood for MP3 output.
+
 ### [Colima](https://colima.run) 🌐
 Container runtimes on macOS with minimal setup: a lightweight, free, open-source alternative to Docker Desktop. Run `colima start` and use the regular `docker` CLI (`brew install docker`) with no heavy GUI app or licensing worries.
 
