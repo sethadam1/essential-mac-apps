@@ -133,7 +133,7 @@ A simple menu bar app that automatically hides or quits applications after perio
 Supercharge your productivity with powerful launchers and automation tools.
 
 ### [Keylane](https://github.com/Acckion/Keylane)
-A native keyboard launcher for macOS 26 and later, with app and file search, clipboard history, and system actions. The development build is available from source under PolyForm Noncommercial 1.0.0.
+A native keyboard launcher for macOS 26 and later, with app and file search, clipboard history, and system actions. An Apple Silicon beta is available from GitHub Releases.
 
 ### [JoinTogether](https://www.underpassapp.com/JoinTogether/)💰
 A simple utility that merges multiple files into one, supporting various file types including text, images, and PDFs with an intuitive drag-and-drop interface. 
